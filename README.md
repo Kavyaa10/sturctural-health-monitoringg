@@ -1,1 +1,1 @@
-# sturctural-health-monitoringg
+# sturctural-health-monitoring
